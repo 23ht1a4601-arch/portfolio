@@ -17,4 +17,4 @@ The *Medical Diagnosis Center by Service Portal* is a digital health tech soluti
 (Click the links below to view sample portal layout designs)
 - 🏥 [View Patient Portal Main Dashboard](https://unsplash.com)
 - 📊 [View Clinical Data & Analytics Layout](https://unsplash.com)
-- 📅 [View Appointment Management Interface](https://unsplash.com)
+- 📅 [View Appointment Management Interface](https://unsplash.com
