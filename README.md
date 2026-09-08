@@ -80,45 +80,59 @@ Enforcing explicit role-based access rules via ServiceNow Access Control Lists (
 This block focuses on system testing, analytics dashboard setups, rollout quality verification, and building full manual books.
 
 ### 🔹 Reporting & Dashboards
+Developing custom ServiceNow dashboards to display live patient workflows and operational metrics.
 <img src="https://unsplash.com" width="100%" alt="Reporting & Dashboards" />
 
 ### 🔹 QA & UAT Testing
+Executing strict validation test runs for form verification and cross-browser portal responsiveness.
 <img src="https://unsplash.com" width="100%" alt="QA & UAT Testing" />
 
 ### 🔹 Reports Generation
+Establishing scheduled platform reports for analytical insights on diagnostic operations.
 <img src="https://unsplash.com" width="100%" alt="Reports Generation" />
 
 ### 🔹 Troubleshooting
+Formulating debug methodologies to fix unexpected client script errors or workflow transitions.
 <img src="https://unsplash.com" width="100%" alt="Troubleshooting" />
 
 ### 🔹 Adherence to Timelines
+Reviewing project metrics to guarantee timely deployment within designated constraints.
 <img src="https://unsplash.com" width="100%" alt="Adherence to Timelines" />
 
 ### 🔹 Innovation
+Implementing unique workflow short-cuts and user-friendly portal enhancements.
 <img src="https://unsplash.com" width="100%" alt="Innovation" />
 
 ### 🔹 Document Functional Overview
+Compiling user guides detailing functional actions across every application view.
 <img src="https://unsplash.com" width="100%" alt="Document Functional Overview" />
 
 ### 🔹 Document Technical Blueprint
+Documenting architecture definitions, custom API components, and configuration states.
 <img src="https://unsplash.com" width="100%" alt="Document Technical Blueprint" />
 
 ### 🔹 Document Setup Manual
+Outlining environmental property sets required during initialization.
 <img src="https://unsplash.com" width="100%" alt="Document Setup Manual" />
 
 ### 🔹 Project Demo Video Planning
+Outlining recorded presentation paths demonstrating optimal functional validation.
 <img src="https://unsplash.com" width="100%" alt="Project Demo Video Planning" />
 
 ### 🔹 Visual Demonstration
+Showcasing live execution layouts clearly mapping input fields to expected responses.
 <img src="https://unsplash.com" width="100%" alt="Visual Demonstration" />
 
 ### 🔹 Explanation Clarity
+Verifying high conversational and descriptive transparency across solution presentations.
 <img src="https://unsplash.com" width="100%" alt="Explanation Clarity" />
 
 ### 🔹 Realism & Quality
+Polishing design assets to approach professional industrial product standards.
 <img src="https://unsplash.com" width="100%" alt="Realism & Quality" />
 
 ### 🔹 Scalability & Future Plan
+Architecting systemic foundations prepared to scale up for enterprise hospital networks.
 <img src="https://unsplash.com" width="100%" alt="Scalability & Future Plan" />
 
 ---
@@ -127,4 +141,4 @@ This block focuses on system testing, analytics dashboard setups, rollout qualit
 The system successfully completed all functional target validation criteria inside the custom workspace environment. The workspace lifecycle parameters are confirmed as 100% resolved and deployed.
 
 ---
-Maintained and structured by A. Aswini as part of the ServiceNow Portfolio Roadmap.
+Maintained and structured by A. Aswini as part of the ServiceNow Portfolio Roadmap
